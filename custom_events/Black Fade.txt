@@ -1,0 +1,3 @@
+Value 1: True to fade TO black. False to fade FROM BLACK
+
+Value 2: Time.
