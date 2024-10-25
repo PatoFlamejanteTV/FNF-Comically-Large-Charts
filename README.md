@@ -19,4 +19,12 @@ Made for using on `Psych Engine` - **tested on `JS Engine`** (JSE is better than
 
 **Current `version` is:** <img alt="GitHub Tag" src="https://img.shields.io/github/v/tag/PatoFlamejanteTV/FNF-Comically-Large-Charts">.
 
+## World Records (?)
+
+Some are not confirmed (like, some i dint ask somebody if is valid)
+
+### Smallest Bit Rate (0 KBpS) & Smallest Sample (8 KHz)
+
+![image](https://github.com/user-attachments/assets/90e7b118-df60-4df8-ba4a-d78ab0eac4a4)
+
 `NOTE: check ./LICENSE-SONGS-AND-ART, ./LICENSE for usage info.`
