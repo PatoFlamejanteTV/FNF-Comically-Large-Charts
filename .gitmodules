@@ -1,0 +1,3 @@
+[submodule "utils/utils"]
+	path = utils/utils
+	url = https://github.com/PatoFlamejanteTV/QuackUtils
