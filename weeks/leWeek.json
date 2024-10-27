@@ -1,0 +1,59 @@
+{
+	"storyName": "FNF VS LAG",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		0,
+		0,
+		0
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"nothing",
+			"face",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"BF-HAS-AN-BSOD",
+			"face",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"vine-boom",
+			"face",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"bosta-bosta-bosta-bosta-bosta-bosta-bosta-bosta-bosta-bosta-bosta-bosta-bosta-bosta-bosta-bosta-bosta-bosta-bosta-bosta",
+			"face",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "BE BO BAP",
+	"hiddenUntilUnlocked": false
+}
