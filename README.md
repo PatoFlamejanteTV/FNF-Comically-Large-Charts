@@ -15,7 +15,7 @@ Made for using on `Psych Engine` - **tested on `JS Engine`** (JSE is better than
 </P>
 
 ## Status
-**From the <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/PatoFlamejanteTV/FNF-Comically-Large-Charts">, we have:** `0` songs _(playable/used, and un-playable and unused)_, `0` characters _(playable/used, and un-playable and unused)_.
+**From the <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/PatoFlamejanteTV/FNF-Comically-Large-Charts">, we have:** `3` songs _(playable/used, and un-playable and unused)_, `0` characters _(playable/used, and un-playable and unused)_.
 
 **Current `version` is:** <img alt="GitHub Tag" src="https://img.shields.io/github/v/tag/PatoFlamejanteTV/FNF-Comically-Large-Charts">.
 
